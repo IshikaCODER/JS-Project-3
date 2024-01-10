@@ -1,0 +1,31 @@
+body{
+    background-color: #D4F1F4;
+}
+
+h1{
+    color: #05445E;
+    line-height: 40px;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+h3{
+    color: #0b5b7d;
+    margin-left: 30px;
+}
+
+#btn{
+    border-radius: 4px;
+    border-color: #05445E;
+    background-color: #05445E;
+    color: #D4F1F4;
+    padding: 8px 10px;
+    margin-left: 8%;
+}
+
+#para{
+    text-align: left;
+    margin-left: 20px;
+    margin-right: 600px;
+    padding: 10px 10px;
+}
